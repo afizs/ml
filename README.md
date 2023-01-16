@@ -2,4 +2,4 @@
 <p align="center"> Contains all my learning related to Python and Machine Learning</p>
 
 ## Free courses
-- [Data Science courses by IBM](/free-courses)
+- [Data Science courses by IBM](/free-courses/README.md)
